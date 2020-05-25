@@ -1,2 +1,2 @@
 # ucb-01
-UC Berkeley Extention
+Refactored HTML and CSS code for Horiseon's Webpage.
