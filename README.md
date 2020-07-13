@@ -3,7 +3,7 @@ Description
 - Refactored HTML and CSS code for Horiseon's Webpage.
 
 Webpage URL
--  https://sparshpatwa.github.io/ucb-01/
+-  https://sparshpatwa.github.io/refactoring-codebase/
 
 Webpage Screenshot
 ![](screenshots/Screenshot_0.png)
